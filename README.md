@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @duki-dotcom, call me duki
+- 👀 I’m interested in python, lua, roblox dev/scripting, c#
+- 😢 Kevin is newgen
+- 🔥 Dazey a bigger newgen tho
