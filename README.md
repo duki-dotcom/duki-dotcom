@@ -1,4 +1,25 @@
-- 👋 Hi, I’m @duki-dotcom, call me duki
-- 👀 I’m interested in python, lua, roblox dev/scripting, c#
-- 😢 Kevin is newgen
-- 🔥 Dazey a bigger newgen tho
+# duki dot com
+
+hey nerds im duki i make thing go wuh guh yuh
+
+## projects
+
+- personal site for portfolio and hosting
+- roblox gui
+- roblox game dev
+
+## languages
+
+- python
+- lua
+- c# (learning still ok)
+
+## socials
+
+@dukidokii on most socials
+
+### thx ok bye
+
+```
+guns.lol/dukid
+```
