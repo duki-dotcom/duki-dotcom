@@ -1,25 +1,43 @@
-# duki dot com
+# Duki
 
-hey nerds im duki i make thing go wuh guh yuh
+Python & Lua developer focused on building practical tools and working models.  
+Currently learning C++ and working with Unity.
 
-## projects
+---
 
-- personal site for portfolio and hosting
-- roblox gui
-- roblox game dev
+### 🧩 Skillset
 
-## languages
+- **Programming Languages:** Python, Lua  
+- **Learning:** C++, Unity (C#)  
+- **Interests:** Scripting, animations and vfx.
 
-- python
-- lua
-- c# (learning still ok)
+---
 
-## socials
+### 🔍 Focus Areas
 
-@dukidokii on most socials
+- Automation and functionality 
+- Procedural systems and real-time interactivity  
+- Clean architecture & performance-first code
 
-### thx ok bye
+---
 
-```
-guns.lol/dukid
-```
+### 📁 Projects
+
+> Most work is privated.  
+> Primary project (WL GUI) is private — and vastly outpaces anything someone like Kevin could reverse or replicate.
+
+---
+
+### 🧠 Notes
+
+- Just here for clean functional code.  
+- Github used mostly as a backup and a web host.  
+- Commits are clear, intentional.
+
+---
+
+### 📊 Stats
+
+![Duki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duki&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duki&layout=compact&theme=tokyonight&hide_border=true)
